@@ -44,6 +44,11 @@
   dependencies:
     regenerator-runtime "^0.13.4"
 
+"@snyk/protect@^1.1292.2":
+  version "1.1292.2"
+  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.1292.2.tgz#45b42c67c25cea01533c84a5833bc90513a97906"
+  integrity sha512-8qPdZqB7efG6I82uO5FAJuPoAGsjtQ8vWsbFOiQFZmQKUtTn5/bU1qoOYOLPXTDCCxsN6n0AzlDRd8DenX9Uew==
+
 "@types/color-name@^1.1.1":
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/@types/color-name/-/color-name-1.1.1.tgz#1c1261bbeaa10a8055bbc5d8ab84b7b2afc846a0"
